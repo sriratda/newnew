@@ -1,5 +1,4 @@
 const Account = require('../models/Account');
-const Transaction = require('../models/Transaction');
 const mongoose = require('mongoose');
 
 // MongoDB model for the account (replace with your actual model)
